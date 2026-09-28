@@ -1,7 +1,7 @@
 <div align="center">
 
   <p>
-    <strong>Feng Yifan</strong>
+    <strong>Area & Country Studies · Language & Literature · Data Processing & Analysis</strong>
   </p>
 
   <p>
