@@ -1,65 +1,27 @@
-<h1 align="center">Hi there, I'm Yifan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Founder of AI CorpusX</b>
-</p>
+  <p>
+    <strong>Feng Yifan</strong>
+  </p>
 
-<p align="center">
-  Corpus Linguistics · Computational Linguistics · Translation Studies · Discourse Analysis
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  </p>
 
-<p align="center">
-  Exploring language through data, computation, and interdisciplinary research.
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/ZH-Chinese-DE2910?style=flat-square" alt="Chinese">
+    <img src="https://img.shields.io/badge/EN-English-012169?style=flat-square" alt="English">
+    <img src="https://img.shields.io/badge/DE-German-D4A017?style=flat-square" alt="German">
+    <img src="https://img.shields.io/badge/AR-Arabic-006C35?style=flat-square" alt="Arabic">
+  </p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/Corpus-Linguistics-informational?style=flat-square" alt="Corpus Linguistics">
+    <img src="https://img.shields.io/badge/Computational-Linguistics-informational?style=flat-square" alt="Computational Linguistics">
+    <img src="https://img.shields.io/badge/Translation-Studies-informational?style=flat-square" alt="Translation Studies">
+    <img src="https://img.shields.io/badge/Discourse-Analysis-informational?style=flat-square" alt="Discourse Analysis">
+  </p>
 
-## About Me
-
-I am the founder of **AI CorpusX**, with research interests in:
-
-- **Corpus Linguistics**
-- **Computational Linguistics**
-- **Translation Studies**
-- **Discourse Analysis**
-
-My work focuses on combining linguistic inquiry with computational methods to better understand language, translation, and discourse in real-world contexts.
-
----
-
-## Research Interests
-
-- Corpus-based language research  
-- Computational approaches to linguistic analysis  
-- Translation and cross-linguistic studies  
-- Discourse and meaning construction  
-- Language data, annotation, and multilingual resources  
-
----
-
-## What I'm Working On
-
-- Building academic and practical tools under **AI CorpusX**
-- Exploring corpus-driven and computational methods in language research
-- Developing multilingual resources and research-oriented language technologies
-- Connecting linguistic theory with data-based analysis
-
----
-
-## Keywords
-
-`Corpus Linguistics` · `Computational Linguistics` · `Translation Studies` · `Discourse Analysis` · `AI CorpusX`
-
----
-
-## Contact
-
-- Email: **your-email@example.com**
-- Website: **https://aicorpusx.com/**
-- ORCID: **your-orcid-link**
-
----
-
-<p align="center">
-  <i>Language, data, and interpretation — where humanities meet computation.</i>
-</p>
+</div>
