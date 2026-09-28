@@ -1,7 +1,7 @@
 <div align="center">
 
   <p>
-    <strong>Area & Country Studies · Language & Literature · Data Processing & Analysis</strong>
+    <strong>Language & Literature · Processing & Analysis</strong>
   </p>
 
   <p>
