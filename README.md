@@ -1,7 +1,7 @@
 <div align="center">
 
   <p>
-    <strong>Language & Literature · Processing & Analysis</strong>
+    <strong>KEY WORDS</strong>
   </p>
 
   <p>
