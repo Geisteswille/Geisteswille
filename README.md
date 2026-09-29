@@ -12,11 +12,11 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/Python-2F81F7?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/Hugging%20Face-B89B3C?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/Hugging%20Face-E67E22?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
   </p>
 
   <p>
